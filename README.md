@@ -40,22 +40,31 @@ Michael is a talented and experienced software engineer, architect, product deve
 •	Reporting and document delivery systems
 
 •	REST API and Microservice development 
+
 •	Database schema, redesigns and migrations
+
 •	Reusable software frameworks	
+
 •	Workflow automation systems
+
 •	Operations management systems
+
 •	Application maintenance and refactoring
+
 •	Legacy systems integration and replacement
+
 •	Insurance and Legal applications
+
 •	Clinical/Medical and Billing applications
+
 •	Digital Advertising and Campaign Management
 
 ### Software Development Work History
 
 #### Principal Software Engineer, Senior Software Engineer
-##### Netsertive, Inc. 
-##### Morrisville, NC  
-##### April 2011 – present
+#### Netsertive, Inc. 
+#### Morrisville, NC  
+#### April 2011 – present
 
 Developing new web applications, services, API platforms, libraries and backend automation apps, adding new features to existing apps and sites, creating new databases, automation, content generation frameworks, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.
 
@@ -66,9 +75,9 @@ Technologies used include	Java, PHP, Node, React, Redux, HTML, CSS, JavaScript, 
 ---
 
 #### Senior Software Engineer
-##### MED3000
-##### Raleigh, NC 
-##### December 2008 - April 2011
+#### MED3000
+#### Raleigh, NC 
+#### December 2008 - April 2011
 
 A lead developer in maintaining a large and complex Electronic Medical Record product.  Directly responsible for significant new functionality added to this web-based system.  Also developed a configurable message delivery engine to handle prescription coverage eligibility, medication history, and formulary transactions and data feeds. Lead developer for new Practice Management product.  Actively involved in the hiring process for additional engineering team members.
 
@@ -77,9 +86,9 @@ Technologies used include	ASP.NET, ASP (classic), SQL Server 2005, C#, .NET Web 
 ---
  
 #### Senior Software Engineer
-##### Motricity, Inc.
-##### Durham, NC
-##### October 2007 – Nov 2008
+#### Motricity, Inc.
+#### Durham, NC
+#### October 2007 – Nov 2008
 
 Performed a major refactoring of a large and complex mobile games engine, making it maintainable again and preventing likely catastrophic failure.  Also developed major extensions to the Gateway/BST messaging system for performance, reliability, and feature enhancements.  Created and maintained several test clients and simulators. Served as a technical leader, occasional team leader, and key member of architecture team.
 
@@ -88,9 +97,9 @@ Technologies used include C#, VB.NET, .NET Web and Windows Services, Visual Stud
 ---
 
 #### Senior Consultant
-##### Vaco Technology
-##### September 2005 – October 2007
-##### Client: Investors Title Company, Chapel Hill, NC
+#### Vaco Technology
+#### September 2005 – October 2007
+#### Client: Investors Title Company, Chapel Hill, NC
 
 Developed new web apps to replace a legacy system, Eflite 2.0 and eJacket Manager, which are two mission-critical, distributed, web-based transactional systems for use by external customers, affiliated agencies, and internal branches. Developed automation services for creation of an enterprise-wide business data store, and for financial systems integration.  Redesigned and migrated databases using innovative data transformation applications. Lead a team of three developers.
 
@@ -99,9 +108,9 @@ Technologies used include ASP.NET 2.0, VB.NET, Visual Studio 2005, SQL Server 20
 ---
 
 #### Senior Software Developer
-##### Tapco Underwriters, Inc
-##### Burlington, NC
-##### January 2003 – June 2005
+#### Tapco Underwriters, Inc
+#### Burlington, NC
+#### January 2003 – June 2005
 
 Extraordinary success in designing, developing, and deploying a series of software systems that automated many previously manual business functions, dramatically improving employee productivity, replacing legacy applications, modernizing customer and partner communications, thus enabling my employer to grow rapidly and become one of the most outstanding companies in its industry.  Started work as a contractor (please see below).
 
@@ -110,8 +119,8 @@ Technologies used include	VB.NET, SQL Server 2000, Active Reports, C#, ASP.NET, 
 ---
 
 #### Software Developer Consultant
-##### Eliassen Group, Inc.
-##### March 2002 – Jan 2003
+#### Eliassen Group, Inc.
+#### March 2002 – Jan 2003
 
 ##### Client: Tapco Underwriters, July 2002 – January 2003
 Developed numerous custom software apps to increase worker productivity, improve customer service, automate workflow, and replace difficult to maintain legacy systems.
@@ -131,8 +140,8 @@ Technologies used include Microsoft Access 2000 and Microsoft Word 2000.
 ---
 
 #### Software Developer Consultant
-##### Eagle Vision Software
-##### April – July 2002
+#### Eagle Vision Software
+#### April – July 2002
 
 ##### Client: Baker Roofing, Raleigh, NC.
 
@@ -143,8 +152,8 @@ Technologies used include ASP.NET, VB.NET, Visual Studio.NET, SQL Server 2000, M
 ---
 
 #### Software Developer Consultant
-##### Modis, Inc.
-##### May – June 2002
+#### Modis, Inc.
+#### May – June 2002
 
 ##### Client: IBM, Research Triangle Park, NC
 
@@ -155,8 +164,8 @@ Technologies used include Visual Basic 6.0, Active Server Pages 3.0, COM, DCOM, 
 ---
 
 #### Software Developer Consultant
-##### Blue Lizard Software
-##### August 2001 – May 2002
+#### Blue Lizard Software
+#### August 2001 – May 2002
 
 ##### Client: Duke University’s Bryan Alzheimer’s Disease Research Center, Durham, NC
 
@@ -191,8 +200,8 @@ Technologies used include Visual Basic 6, SQL Server 2000, COM+, Access, Excel, 
 ---
 
 #### Software Developer Consultant
-##### Eagle Vision Software
-##### June – Aug 2001
+#### Eagle Vision Software
+#### June – Aug 2001
 
 ##### Client: Structure House, Durham, NC 
 
@@ -203,8 +212,8 @@ Technologies used include Visual Basic 6.0, SQL Server 6.5 and 7.0, Visual Sourc
 ---
 
 #### Software Developer Consultant
-##### Modis, Inc.
-##### July 2000 – June 2001
+#### Modis, Inc.
+#### July 2000 – June 2001
 
 ##### Client: IBM, Research Triangle Park, NC
 
@@ -215,8 +224,8 @@ Technologies used include Visual Basic 6.0, Active Server Pages 3.0, COM, DCOM, 
 ---
 
 #### Software Developer Consultant
-##### Eagle Vision Software
-##### July 1999 – June 2000
+#### Eagle Vision Software
+#### July 1999 – June 2000
 
 ##### Client: North Carolina State Education Assistance Authority, Research Triangle Park, NC
 
@@ -227,8 +236,8 @@ Technologies used include Visual Basic 5.0, SQL Server 6.5, Microsoft Access, Mi
 ---
 
 #### Technical Support Specialist
-##### Modis, Inc.
-##### May 1998 – July 1999
+#### Modis, Inc.
+#### May 1998 – July 1999
 
 ##### Client: Cotton Incorporated, Raleigh, NC
 
@@ -242,7 +251,7 @@ Technologies used include Windows 95/98/NT, DOS/Basic, Visual Basic 5.0, Microso
 
 #### Co-Owner, Flour Power Kids Cooking Studios
 #### Co-Owner, Sugar Plum Kids
-##### 2009 – present
+#### 2009 – present
 
 Co-owner of a unique retail services and educational/entertainment franchise system with seven locations and major growth potential. Four studios were built from the "ground up" by us and then sold/converted to franchise locations. 
 Additional Info: http://www.flourpowerstudios.com
@@ -255,9 +264,9 @@ Additional Info: http://www.sugarplumkids.com
 ---
 
 #### District Sales Manager
-##### Vector Marketing Corporation
-##### Charlotte, Durham, Raleigh NC
-##### May 1990 – Aug 1995
+#### Vector Marketing Corporation
+#### Charlotte, Durham, Raleigh NC
+#### May 1990 – Aug 1995
 
 Advanced from an entry-level field sales position to a franchise owner responsible for all recruiting, training, team development, sales and operations. Received numerous individual and team sales awards.
 
@@ -266,7 +275,7 @@ Additional Info: http://vectormarketing.com
 ---
 
 #### Multiple Sales Positions
-##### Sept 1995 – May 1998
+#### Sept 1995 – May 1998
 Sold insurance for Design Benefit Plans (Health and Life Insurance), various securities for Interstate Johnson Lane (a full service securities brokerage), and office copier and printing equipment for a Xerox Corp. licensed dealer
 
 Additional Info: Please ask for any additional details desired.
