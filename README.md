@@ -18,3 +18,25 @@ Michael excels at migrating and improving existing processes and systems into mo
 Michael’s formal education in the humanities and social sciences and unusual prior experience in sales, marketing and business ownership gives him insights, perspectives and capabilities he leverages to solve technical and business challenges within the field of software development and the profession of software engineering and architecture.
 
 Michael is a talented and experienced software engineer, architect, product developer and manager, as well as a counselor, coach and organization leader.
+
+## Education
+•	B.A. with Distinction – The University of North Carolina at Chapel Hill, 1993.  Phi Beta Kappa member. University Honors Program member.  Fellow of the College of Arts and Sciences.
+
+## Experience
+
+### Software Development Experience Summary
+
+•	Client portals and dashboards
+•	Content management and generation systems
+•	Messaging engines and content delivery systems
+•	Reporting and document delivery systems
+•	REST API and Microservice development 
+•	Database schema, redesigns and migrations
+•	Reusable software frameworks	
+•	Workflow automation systems
+•	Operations management systems
+•	Application maintenance and refactoring
+•	Legacy systems integration and replacement
+•	Insurance and Legal applications
+•	Clinical/Medical and Billing applications
+•	Digital Advertising and Campaign Management
