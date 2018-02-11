@@ -59,6 +59,8 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 •	Digital Advertising and Campaign Management
 
+---
+
 ### Software Development Work History
 
 #### Principal Software Engineer, Senior Software Engineer
