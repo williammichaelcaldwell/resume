@@ -43,11 +43,14 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 ### Software Development Work History
 
-Principal Software Engineer, Senior Software Engineer
-Netsertive, Inc. 
-Morrisville, NC  
-April 2011 – present
+#### Principal Software Engineer, Senior Software Engineer
+#### Netsertive, Inc. 
+#### Morrisville, NC  
+#### April 2011 – present
 
-Developing new web applications, APIs and automation/daemon applications, adding new features to existing apps and sites, new databases, automation, content generation frameworks, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.  Providing technical leadership and mentoring to the software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia. Involved in all aspects of sprint planning and delivery.
+Developing new web applications, services, API platforms, libraries and backend automation apps, adding new features to existing apps and sites, creating new databases, automation, content generation frameworks, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.
+
+Providing technical leadership and mentoring to the software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia. Involved in all aspects of sprint planning and delivery.
+
 Technologies	PHP, Java, Node, React, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, Spring Framework, MySQL, MVC, REST, Linux/Mac OS X, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit
 
