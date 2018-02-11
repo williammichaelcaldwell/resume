@@ -52,5 +52,73 @@ Developing new web applications, services, API platforms, libraries and backend 
 
 Providing technical leadership and mentoring to the software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia. Involved in all aspects of sprint planning and delivery.
 
-Technologies	PHP, Java, Node, React, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, Spring Framework, MySQL, MVC, REST, Linux/Mac OS X, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit
+Technologies used include	Java, PHP, Node, React, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, Spring Framework, MySQL, MVC, REST, Linux/Mac OS X, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit
+
+#### Senior Software Engineer
+#### MED3000
+#### Raleigh, NC 
+#### December 2008 - April 2011
+
+A lead developer in maintaining a large and complex Electronic Medical Record product.  Directly responsible for significant new functionality added to this web-based system.  Also developed a configurable message delivery engine to handle prescription coverage eligibility, medication history, and formulary transactions and data feeds. Lead developer for new Practice Management product.  Actively involved in the hiring process for additional engineering team members.
+
+Technologies used include	ASP.NET, ASP (classic), SQL Server 2005, C#, .NET Web and Windows Services, Visual Studio 2008 and 2005, MSMQ, JavaScript, DHTML, XML, AJAX, XSLT, TFS.
+
+#### Senior Software Engineer
+#### Motricity, Inc.
+#### Durham, NC
+#### October 2007 – Nov 2008
+
+Performed a major refactoring of a large and complex mobile games engine, making it maintainable again and preventing likely catastrophic failure.  Also developed major extensions to the Gateway/BST messaging system for performance, reliability, and feature enhancements.  Created and maintained several test clients and simulators. Served as a technical leader, occasional team leader, and key member of architecture team.
+
+Technologies used include C#, VB.NET, .NET Web and Windows Services, Visual Studio 2005, ASP.NET 2.0, SQL Server 2005, MSMQ, all major .NET APIs, JavaScript, DHTML, JSON, VSS, NUnit.
+
+#### Senior Consultant
+#### Vaco Technology
+#### September 2005 – October 2007
+#### Client: Investors Title Company, Chapel Hill, NC
+
+Developed new web apps to replace a legacy system, Eflite 2.0 and eJacket Manager, which are two mission-critical, distributed, web-based transactional systems for use by external customers, affiliated agencies, and internal branches. Developed automation services for creation of an enterprise-wide business data store, and for financial systems integration.  Redesigned and migrated databases using innovative data transformation applications. Lead a team of three developers.
+
+Technologies used include ASP.NET 2.0, VB.NET, Visual Studio 2005, SQL Server 2005 and 2000, ADO.NET, JavaScript, HTML, DHTML, AJAX, .NET Remoting, Surround Source Control, TestTrack Pro.
+
+#### Senior Software Developer
+#### Tapco Underwriters, Inc
+#### Burlington, NC
+#### January 2003 – June 2005
+
+Extraordinary success in designing, developing, and deploying a series of software systems that automated many previously manual business functions, dramatically improving employee productivity, replacing legacy applications, modernizing customer and partner communications, thus enabling my employer to grow rapidly and become one of the most outstanding companies in its industry.  Started work as a contractor (please see below).
+
+Technologies used include	VB.NET, SQL Server 2000, Active Reports, C#, ASP.NET, ADO.NET, Visual Studio 2003, Visual Source Safe, .NET Remoting
+
+#### Software Developer Consultant
+#### Eliassen Group, Inc.
+#### March 2002 – Jan 2003
+
+#### Client: Tapco Underwriters, July 2002 – January 2003
+Developed numerous custom software apps to increase worker productivity, improve customer service, automate workflow, and replace difficult to maintain legacy systems.
+
+Technologies used include VB.NET, SQL Server 2000, Crystal Reports, .NET Web Services
+
+#### Client: RBC Centura, Rocky Mount, NC, February - June 2002  
+Developed a materials, equipment and security access request site to be used by all Centura Bank employees.
+
+Technologies used include	ASP.NET, VB.NET, Visual Studio.NET, SQL Server 2000
+
+#### Client: Stone Building Supply, Raleigh, NC, January - March 2002
+Designed and developed a Job costing and budgeting application for the Construction Division of Carolina Builders. Analyzed business requirements and created requirements document, project plan, project schedule, test cases, and other documentation.  Developed import module, user interface, and reports.
+
+Technologies used include Microsoft Access 2000 and Microsoft Word 2000.
+
+#### Software Developer Consultant
+#### Eagle Vision Software
+#### April – July 2002
+
+#### Client: Baker Roofing, Raleigh, NC.
+
+Developed a data-driven business intelligence intranet site that interfaces with an existing vehicle GPS tracking system. This was my final client project in a series of projects over a successful three-year period as a consultant/sub-contractor with Eagle Vision. Please see additional Eagle Vision client work below.
+
+Technologies used include ASP.NET, VB.NET, Visual Studio.NET, SQL Server 2000, Microsoft Access 2000, Microsoft Visio.
+
+
+
 
