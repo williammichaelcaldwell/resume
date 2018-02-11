@@ -53,7 +53,7 @@ Developing new web applications, services, API platforms, libraries and backend 
 Providing technical leadership and mentoring to the software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia. Involved in all aspects of sprint planning and delivery.
 
 Technologies used include	Java, PHP, Node, React, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, Spring Framework, MySQL, MVC, REST, Linux/Mac OS X, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit
-<hr/>
+<hr></hr>
 #### Senior Software Engineer
 #### MED3000
 #### Raleigh, NC 
@@ -62,7 +62,7 @@ Technologies used include	Java, PHP, Node, React, Redux, HTML, CSS, JavaScript, 
 A lead developer in maintaining a large and complex Electronic Medical Record product.  Directly responsible for significant new functionality added to this web-based system.  Also developed a configurable message delivery engine to handle prescription coverage eligibility, medication history, and formulary transactions and data feeds. Lead developer for new Practice Management product.  Actively involved in the hiring process for additional engineering team members.
 
 Technologies used include	ASP.NET, ASP (classic), SQL Server 2005, C#, .NET Web and Windows Services, Visual Studio 2008 and 2005, MSMQ, JavaScript, DHTML, XML, AJAX, XSLT, TFS.
-<hr/>
+<hr></hr>
 #### Senior Software Engineer
 #### Motricity, Inc.
 #### Durham, NC
