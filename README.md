@@ -20,9 +20,11 @@ Michael’s formal education in the humanities and social sciences and unusual p
 Michael is a talented and experienced software engineer, architect, product developer and manager, as well as a counselor, coach and organization leader.
 
 ## Education
-B.A. with Distinction – The University of North Carolina at Chapel Hill, 1993.  
-•	Member, Phi Beta Kappa 
+### B.A. with Distinction – The University of North Carolina at Chapel Hill, 1993.  
+•	Member, Phi Beta Kappa
+
 •	University Honors Program, taking 15 or more honors courses
+
 •	Fellow of the College of Arts and Sciences.
 
 ## Experience
@@ -30,9 +32,13 @@ B.A. with Distinction – The University of North Carolina at Chapel Hill, 1993.
 ### Software Development Experience Summary
 
 •	Client portals and dashboards
+
 •	Content management and generation systems
+
 •	Messaging engines and content delivery systems
+
 •	Reporting and document delivery systems
+
 •	REST API and Microservice development 
 •	Database schema, redesigns and migrations
 •	Reusable software frameworks	
