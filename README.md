@@ -44,32 +44,31 @@ Michael is a talented and experienced software engineer, architect, product deve
 ### Software Development Work History
 
 #### Principal Software Engineer, Senior Software Engineer
-#### Netsertive, Inc. 
-#### Morrisville, NC  
-#### April 2011 – present
+##### Netsertive, Inc. 
+##### Morrisville, NC  
+##### April 2011 – present
 
 Developing new web applications, services, API platforms, libraries and backend automation apps, adding new features to existing apps and sites, creating new databases, automation, content generation frameworks, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.
 
 Providing technical leadership and mentoring to the software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia. Involved in all aspects of sprint planning and delivery.
 
 Technologies used include	Java, PHP, Node, React, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, Spring Framework, MySQL, MVC, REST, Linux/Mac OS X, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit
-
-
+<br/>
 
 #### Senior Software Engineer
-#### MED3000
-#### Raleigh, NC 
-#### December 2008 - April 2011
+##### MED3000
+##### Raleigh, NC 
+##### December 2008 - April 2011
 
 A lead developer in maintaining a large and complex Electronic Medical Record product.  Directly responsible for significant new functionality added to this web-based system.  Also developed a configurable message delivery engine to handle prescription coverage eligibility, medication history, and formulary transactions and data feeds. Lead developer for new Practice Management product.  Actively involved in the hiring process for additional engineering team members.
 
 Technologies used include	ASP.NET, ASP (classic), SQL Server 2005, C#, .NET Web and Windows Services, Visual Studio 2008 and 2005, MSMQ, JavaScript, DHTML, XML, AJAX, XSLT, TFS.
-
-#### 
+<br/>
+ 
 #### Senior Software Engineer
-#### Motricity, Inc.
-#### Durham, NC
-#### October 2007 – Nov 2008
+##### Motricity, Inc.
+##### Durham, NC
+##### October 2007 – Nov 2008
 
 Performed a major refactoring of a large and complex mobile games engine, making it maintainable again and preventing likely catastrophic failure.  Also developed major extensions to the Gateway/BST messaging system for performance, reliability, and feature enhancements.  Created and maintained several test clients and simulators. Served as a technical leader, occasional team leader, and key member of architecture team.
 
