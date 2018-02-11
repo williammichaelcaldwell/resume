@@ -20,7 +20,10 @@ Michael’s formal education in the humanities and social sciences and unusual p
 Michael is a talented and experienced software engineer, architect, product developer and manager, as well as a counselor, coach and organization leader.
 
 ## Education
-•	B.A. with Distinction – The University of North Carolina at Chapel Hill, 1993.  Phi Beta Kappa member. University Honors Program member.  Fellow of the College of Arts and Sciences.
+B.A. with Distinction – The University of North Carolina at Chapel Hill, 1993.  
+•	Member, Phi Beta Kappa 
+•	University Honors Program, taking 15 or more honors courses
+•	Fellow of the College of Arts and Sciences.
 
 ## Experience
 
@@ -53,6 +56,7 @@ Developing new web applications, services, API platforms, libraries and backend 
 Providing technical leadership and mentoring to the software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia. Involved in all aspects of sprint planning and delivery.
 
 Technologies used include	Java, PHP, Node, React, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, Spring Framework, MySQL, MVC, REST, Linux/Mac OS X, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit
+
 ---
 
 #### Senior Software Engineer
@@ -63,6 +67,7 @@ Technologies used include	Java, PHP, Node, React, Redux, HTML, CSS, JavaScript, 
 A lead developer in maintaining a large and complex Electronic Medical Record product.  Directly responsible for significant new functionality added to this web-based system.  Also developed a configurable message delivery engine to handle prescription coverage eligibility, medication history, and formulary transactions and data feeds. Lead developer for new Practice Management product.  Actively involved in the hiring process for additional engineering team members.
 
 Technologies used include	ASP.NET, ASP (classic), SQL Server 2005, C#, .NET Web and Windows Services, Visual Studio 2008 and 2005, MSMQ, JavaScript, DHTML, XML, AJAX, XSLT, TFS.
+
 ---
  
 #### Senior Software Engineer
@@ -73,6 +78,7 @@ Technologies used include	ASP.NET, ASP (classic), SQL Server 2005, C#, .NET Web 
 Performed a major refactoring of a large and complex mobile games engine, making it maintainable again and preventing likely catastrophic failure.  Also developed major extensions to the Gateway/BST messaging system for performance, reliability, and feature enhancements.  Created and maintained several test clients and simulators. Served as a technical leader, occasional team leader, and key member of architecture team.
 
 Technologies used include C#, VB.NET, .NET Web and Windows Services, Visual Studio 2005, ASP.NET 2.0, SQL Server 2005, MSMQ, all major .NET APIs, JavaScript, DHTML, JSON, VSS, NUnit.
+
 ---
 
 #### Senior Consultant
@@ -83,6 +89,7 @@ Technologies used include C#, VB.NET, .NET Web and Windows Services, Visual Stud
 Developed new web apps to replace a legacy system, Eflite 2.0 and eJacket Manager, which are two mission-critical, distributed, web-based transactional systems for use by external customers, affiliated agencies, and internal branches. Developed automation services for creation of an enterprise-wide business data store, and for financial systems integration.  Redesigned and migrated databases using innovative data transformation applications. Lead a team of three developers.
 
 Technologies used include ASP.NET 2.0, VB.NET, Visual Studio 2005, SQL Server 2005 and 2000, ADO.NET, JavaScript, HTML, DHTML, AJAX, .NET Remoting, Surround Source Control, TestTrack Pro.
+
 ---
 
 #### Senior Software Developer
@@ -93,6 +100,7 @@ Technologies used include ASP.NET 2.0, VB.NET, Visual Studio 2005, SQL Server 20
 Extraordinary success in designing, developing, and deploying a series of software systems that automated many previously manual business functions, dramatically improving employee productivity, replacing legacy applications, modernizing customer and partner communications, thus enabling my employer to grow rapidly and become one of the most outstanding companies in its industry.  Started work as a contractor (please see below).
 
 Technologies used include	VB.NET, SQL Server 2000, Active Reports, C#, ASP.NET, ADO.NET, Visual Studio 2003, Visual Source Safe, .NET Remoting
+
 ---
 
 #### Software Developer Consultant
@@ -113,6 +121,7 @@ Technologies used include	ASP.NET, VB.NET, Visual Studio.NET, SQL Server 2000
 Designed and developed a Job costing and budgeting application for the Construction Division of Carolina Builders. Analyzed business requirements and created requirements document, project plan, project schedule, test cases, and other documentation.  Developed import module, user interface, and reports.
 
 Technologies used include Microsoft Access 2000 and Microsoft Word 2000.
+
 ---
 
 #### Software Developer Consultant
@@ -124,6 +133,7 @@ Technologies used include Microsoft Access 2000 and Microsoft Word 2000.
 Developed a data-driven business intelligence intranet site that interfaces with an existing vehicle GPS tracking system. This was my final client project in a series of projects over a successful three-year period as a consultant/sub-contractor with Eagle Vision. Please see additional Eagle Vision client work below.
 
 Technologies used include ASP.NET, VB.NET, Visual Studio.NET, SQL Server 2000, Microsoft Access 2000, Microsoft Visio.
+
 ---
 
 #### Software Developer Consultant
@@ -135,6 +145,7 @@ Technologies used include ASP.NET, VB.NET, Visual Studio.NET, SQL Server 2000, M
 Maintained intranet and client-server applications that I previously designed and developed. (This was a follow-up contract for the same department within IBM.  Please see previous position description with Modis and IBM below.)
 
 Technologies used include Visual Basic 6.0, Active Server Pages 3.0, COM, DCOM, and COM+, Internet Information Server 5.0, HTML, VBScript and JavaScript, Microsoft Access 2000 and 97.
+
 ---
 
 #### Software Developer Consultant
@@ -170,6 +181,7 @@ Technologies used include Access 2000 and SQL Server 2000
 Designed and developed a 3-tier distributed application for the purpose of managing North Carolina municipality construction project applications, approval processes, loans, and grants. Project was terminated due to loss of funding.  
 
 Technologies used include Visual Basic 6, SQL Server 2000, COM+, Access, Excel, and Word 2000 automation.
+
 ---
 
 #### Software Developer Consultant
@@ -181,6 +193,7 @@ Technologies used include Visual Basic 6, SQL Server 2000, COM+, Access, Excel, 
 Designed, developed, and tested major changes to a client-server customer information management system. This involved incorporating client medical data and therapy records into the software, as well as building a custom query and reporting application.  Also maintained existing applications as necessary. Migrated existing data from SQL Server 6.5 to SQL Server 7.0 and extended database schema as necessary.
 
 Technologies used include Visual Basic 6.0, SQL Server 6.5 and 7.0, Visual Source Safe, and Microsoft Access and Word 2000 automation.
+
 ---
 
 #### Software Developer Consultant
@@ -192,6 +205,7 @@ Technologies used include Visual Basic 6.0, SQL Server 6.5 and 7.0, Visual Sourc
 Designed and developed an intranet system consisting of numerous ASP pages and several VB COM components and databases in order to measure and report world-wide Options and Peripherals demand forecast accuracy.  IBM managers worldwide used this intranet site.  Designed and developed eight other desktop, client-server, or three-tier applications to analyze business information and automate business processes.
 
 Technologies used include Visual Basic 6.0, Active Server Pages 3.0, COM, DCOM, and COM+, Internet Information Server 5.0, HTML, VBScript and JavaScript, Java applets, Microsoft Access, SQL Server 7.0, and Microsoft Excel automation.
+
 ---
 
 #### Software Developer Consultant
@@ -203,6 +217,7 @@ Technologies used include Visual Basic 6.0, Active Server Pages 3.0, COM, DCOM, 
 Maintained two recently developed large software applications. Finished unfulfilled system requirements for the client, added many new features and functions, and resolved numerous performance and functionality issues.  Developed two additional business applications for the purpose of managing grants for a small health services student load program and for tracking delinquent computer loans.  
 
 Technologies used include Visual Basic 5.0, SQL Server 6.5, Microsoft Access, Microsoft Excel and Word automation, COM, DCOM, Microsoft Transaction Server, and Visual SourceSafe
+
 ---
 
 #### Technical Support Specialist
@@ -214,6 +229,7 @@ Technologies used include Visual Basic 5.0, SQL Server 6.5, Microsoft Access, Mi
 Provided technical support, client training, software testing, on-site software installation, and database administration. Designed and developed a customer support application using VB 5.0 and Access 97. 
 
 Technologies used include Windows 95/98/NT, DOS/Basic, Visual Basic 5.0, Microsoft Access 97.
+
 ---
 
 #### Other Experience
@@ -229,6 +245,7 @@ Last year we launched a related e-Commerce culinary activity subscription box fo
 Additional Info: http://www.sugarplumkids.com
 
 *I am not actively involved in day-to-day operations of either company.*
+
 ---
 
 #### District Sales Manager
@@ -239,6 +256,7 @@ Additional Info: http://www.sugarplumkids.com
 Advanced from an entry-level field sales position to a franchise owner responsible for all recruiting, training, team development, sales and operations. Received numerous individual and team sales awards.
 
 Additional Info: http://vectormarketing.com
+
 ---
 
 #### Multiple Sales Positions
