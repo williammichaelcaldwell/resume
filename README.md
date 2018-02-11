@@ -1,12 +1,11 @@
-# resume
-Resume and related documents for William Michael Caldwell
+# Resume
 
-William Michael Caldwell
-michael@flourpowerstudios.com
-3123 Canoe Brook Parkway, Raleigh, NC 27614
-(919) 889-5989
+## William Michael Caldwell
+## michael@flourpowerstudios.com
+## 3123 Canoe Brook Parkway, Raleigh, NC 27614
+## (919) 889-5989
 
-Summary:
+## Summary:
 
 A uniquely experienced and successful software developer who has designed and developed many different types of business software applications, websites and systems over the past 19 years seeks a leadership role in creating high-value enterprise software systems.  
 
