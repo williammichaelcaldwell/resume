@@ -1,9 +1,9 @@
 # Resume
 
 ### William Michael Caldwell
-### michael@flourpowerstudios.com
-### 3123 Canoe Brook Parkway, Raleigh, NC 27614
-### (919) 889-5989
+michael@flourpowerstudios.com
+3123 Canoe Brook Parkway, Raleigh, NC 27614
+(919) 889-5989
 
 ## Summary:
 
