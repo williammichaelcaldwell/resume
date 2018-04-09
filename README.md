@@ -7,23 +7,29 @@
 
 ## Summary:
 
-A uniquely experienced and successful software developer who has designed and developed many different types of business software applications, websites and systems over the past 19 years seeks a leadership role in creating high-value enterprise software systems.  
+A uniquely experienced and successful software development leader who has designed and developed many different types of business software applications, websites and systems over the past 19 years, and who has lead teams and organizations to consistent and predictable high performance, seeks a leadership position in creating high-value enterprise software systems and technology platforms for a dynamic and growing business.  
 
-Michael has designed, developed, deployed and maintained a wide variety of applications in different industries, including desktop, web and backend apps, UIs and APIs, microservices, databases and end-to-end software systems. Technologies of expertise include Java, Spring, PHP, MySQL, JavaScript, Node, React, jQuery, jQueryUI, SQL Server, HTML5, CSS3, C#, VB.NET, ASP.NET, OOP, JSON and REST.  Michael is an expert and leader at writing "clean code" and building highly maintainable software by leveraging enterprise patterns and frameworks, best practices and principles, and modern tooling and processes, which leads to repeatable and predictable project success.  
+Michael has designed, developed and maintained a wide variety of applications and systems in different industries, including digital marketing, healthcare, insurance, finance, telecommunications and logistics.
 
-Michael has years of experience in digital marketing, healthcare, insurance, finance, telecommunications and logistics.
+Michael has 19 years of experience creating and evolving all types of software, including web sites, apps, and services, daemons, agents, desktop UIs, libraries, microservices and web platforms, REST APIs, OLAP and OLTP schemas and databases, and ETL pipelines.
 
-Michael excels at migrating and improving existing processes and systems into modern software systems which use best practices, patterns and technology, such as cloud-native, 12-factor web applications, 'Single Page App' browser-based technology, microservice and orchestration services, API platforms, and highly scalable, message-based back-end daemons and integrations.
+Michael has worked in many different technologies and languages, including Java, Spring, PHP, MySQL, Javascript, Node, React, jQuery, jQueryUI, HTML5, CSS3, SQL Server, C#, VB.NET, ASP.NET, JSON and REST.  
 
-Michael’s formal education in the humanities and social sciences and unusual prior experience in sales, marketing and business ownership gives him insights, perspectives and capabilities he leverages to solve technical and business challenges within the field of software development and the profession of software engineering and architecture.
+Michael is an expert and leader in writing "clean code" and building highly maintainable and testable software by leveraging enterprise patterns and frameworks, best practices and principles, and modern tooling and processes, which lead to repeatable and predictable project success.
 
-Michael is a talented and experienced software engineer, architect, product developer and manager, as well as a counselor, coach and organization leader.
+Michael excels at migrating and improving existing apps, databases and whole systems, thereby evolving them into maintainable and modern software systems which follow best practices and patterns and leverage appropriate technology. Cloud-native, platform-independent, '12-factor' apps don't have to be built that way from scratch: You can start with whatever you've got, and "get there", without breaking any customer experience along the way.  Michael can show you how.
+
+Michael is a skilled and experienced product developer and manager, able to seamlessly combine product requirements, analysis and design with the software development process. For Michael, software development *is* product development plus software engineering.  This approach arises from his years as a software development consultant as well as his years of experience as an entrepreneur in other industries.
+
+Michael’s formal education in the humanities and social sciences, and unusual prior experience in sales, marketing and business ownership, gives him insights, perspectives, wisdom and capabilities which he leverages to solve technical and business challenges within the field of software development and the profession of software engineering and architecture.
+
+Michael is a talented and experienced software engineer, architect, product developer and manager, as well as a counselor, coach and leader.
 
 ## Education
 ### B.A. with Distinction – The University of North Carolina at Chapel Hill, 1993.  
 •	Member, Phi Beta Kappa
 
-•	University Honors Program, taking 15 or more honors courses
+•	University Honors Program, taking 15 or more Honors courses
 
 •	Fellow of the College of Arts and Sciences.
 
@@ -31,31 +37,31 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 ### Software Development Experience Summary
 
-•	Client portals and dashboards
+•	Customer portals, dashboards and API platforms
 
 •	Content management and generation systems
 
-•	Messaging engines and content delivery systems
+•	Messaging engines and gateways
 
 •	Reporting and document delivery systems
 
-•	REST API and Microservice development 
+•	RESTful web service development and Microservices architecture 
 
-•	Database schema, redesigns and migrations
+•	Database schema development, redesigns and migrations
 
-•	Reusable software frameworks	
+•	Custom software frameworks	
 
-•	Workflow automation systems
+•	Workflow and orchestration services
 
-•	Operations management systems
+•	Line-of-business operations and management systems
 
-•	Application maintenance and refactoring
+•	Application reform and refactoring
 
 •	Legacy systems integration and replacement
 
-•	Insurance and Legal applications
+•	Insurance, legal and accounting applications
 
-•	Clinical/Medical and Billing applications
+•	Clinical and Medical (EHR) systems
 
 •	Digital Advertising and Campaign Management
 
@@ -68,11 +74,11 @@ Michael is a talented and experienced software engineer, architect, product deve
 #### Morrisville, NC  
 #### April 2011 – present
 
-Developing new web applications, services, API platforms, libraries and backend automation apps, adding new features to existing apps and sites, creating new databases, automation, content generation frameworks, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.
+Developing new web applications, services, API platforms, libraries and backend automation apps, adding new features to existing apps and sites, creating new databases, automation, content generation systems, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.
 
-Providing technical leadership and mentoring to the software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia. Involved in all aspects of sprint planning and delivery.
+Providing technical leadership and mentoring to the entire software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia.  Involved in all aspects of sprint planning and delivery using Agile/Scrum.  Served as scrum master and/or team lead for several delivery teams.  Actively involved in the hiring process for engineering and product team members.  Taught non-Engineers how to program, through a months-long course, allowing them to add minor features and fix bugs in existing apps.  Currently actively involved in business and product development strategy.
 
-Technologies used include	Java, PHP, Node, React, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, Spring Framework, MySQL, MVC, REST, Linux/Mac OS X, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit
+Technologies used include Java, Spring/Boot Framework, PHP, Node, React/JSX, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, MySQL, MongoDB, MVC, REST, Linux/Mac OS X, Docker, Kubernetes, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit, Jira, Confluence, Bitbucket, Jenkins
 
 ---
 
@@ -81,9 +87,9 @@ Technologies used include	Java, PHP, Node, React, Redux, HTML, CSS, JavaScript, 
 #### Raleigh, NC 
 #### December 2008 - April 2011
 
-A lead developer in maintaining a large and complex Electronic Medical Record product.  Directly responsible for significant new functionality added to this web-based system.  Also developed a configurable message delivery engine to handle prescription coverage eligibility, medication history, and formulary transactions and data feeds. Lead developer for new Practice Management product.  Actively involved in the hiring process for additional engineering team members.
+A lead developer in maintaining a large and complex Electronic Medical Record product.  Directly responsible for significant new functionality in this web-based system.  Also developed a configurable message delivery engine to handle prescription coverage eligibility, medication history, and formulary transactions and data feeds.  Lead developer for a new Practice Management product we acquired.  Actively involved in the hiring process for additional engineering team members.
 
-Technologies used include	ASP.NET, ASP (classic), SQL Server 2005, C#, .NET Web and Windows Services, Visual Studio 2008 and 2005, MSMQ, JavaScript, DHTML, XML, AJAX, XSLT, TFS.
+Technologies used include ASP.NET, ASP (classic), SQL Server 2005, C#, .NET Web and Windows Services, Visual Studio 2008 and 2005, MSMQ, JavaScript, DHTML, XML, AJAX, XSLT, TFS.
 
 ---
  
@@ -92,7 +98,7 @@ Technologies used include	ASP.NET, ASP (classic), SQL Server 2005, C#, .NET Web 
 #### Durham, NC
 #### October 2007 – Nov 2008
 
-Performed a major refactoring of a large and complex mobile games engine, making it maintainable again and preventing likely catastrophic failure.  Also developed major extensions to the Gateway/BST messaging system for performance, reliability, and feature enhancements.  Created and maintained several test clients and simulators. Served as a technical leader, occasional team leader, and key member of architecture team.
+Performed a major refactoring of a large, complex and strategically important mobile games engine, making it maintainable again and preventing likely catastrophic failure.  Also developed major extensions to the Gateway/BST messaging system for performance, reliability, and feature improvements.  Created and maintained several test clients and simulators.  Served as a technical leader and key member of the architecture team.
 
 Technologies used include C#, VB.NET, .NET Web and Windows Services, Visual Studio 2005, ASP.NET 2.0, SQL Server 2005, MSMQ, all major .NET APIs, JavaScript, DHTML, JSON, VSS, NUnit.
 
@@ -103,7 +109,7 @@ Technologies used include C#, VB.NET, .NET Web and Windows Services, Visual Stud
 #### September 2005 – October 2007
 #### Client: Investors Title Company, Chapel Hill, NC
 
-Developed new web apps to replace a legacy system, Eflite 2.0 and eJacket Manager, which are two mission-critical, distributed, web-based transactional systems for use by external customers, affiliated agencies, and internal branches. Developed automation services for creation of an enterprise-wide business data store, and for financial systems integration.  Redesigned and migrated databases using innovative data transformation applications. Lead a team of three developers.
+Developed new web apps to replace a legacy system, called Eflite 2.0 and eJacket Manager, which are two mission-critical, distributed, web-based transactional systems for use by external customers, affiliated agencies, and internal branches.  Developed automation services for creation of an enterprise-wide business data store, and for financial systems integration.  Redesigned and migrated databases using innovative data transformation applications.  Lead a team of three developers.
 
 Technologies used include ASP.NET 2.0, VB.NET, Visual Studio 2005, SQL Server 2005 and 2000, ADO.NET, JavaScript, HTML, DHTML, AJAX, .NET Remoting, Surround Source Control, TestTrack Pro.
 
@@ -255,7 +261,7 @@ Technologies used include Windows 95/98/NT, DOS/Basic, Visual Basic 5.0, Microso
 #### Co-Owner, Sugar Plum Kids
 #### 2009 – present
 
-Co-owner of a unique retail services and educational/entertainment franchise system with seven locations and major growth potential. Four studios were built from the "ground up" by us and then sold/converted to franchise locations. 
+Co-owner of a unique retail services and educational/entertainment franchise company with seven locations and major growth potential. Four studios were built from the "ground up" by us and then sold/converted to franchise locations.  Three locations thus far have been sold as new franchisee territories.
 Additional Info: http://www.flourpowerstudios.com
 
 Last year we launched a related e-Commerce culinary activity subscription box for children
@@ -270,15 +276,17 @@ Additional Info: http://www.sugarplumkids.com
 #### Charlotte, Durham, Raleigh NC
 #### May 1990 – Aug 1995
 
-Advanced from an entry-level field sales position to a franchise owner responsible for all recruiting, training, team development, sales and operations. Received numerous individual and team sales awards.
+Advanced from an entry-level field sales position to a regional owner responsible for all recruiting, training, team development, sales and operations.  Received numerous individual and team sales awards.  Received invaluable training and mentoring.
 
 Additional Info: http://vectormarketing.com
+
+*Vector/Cutco does not work out for 80-90% of those who start. It worked out extremely well for me.*
 
 ---
 
 #### Multiple Sales Positions
 #### Sept 1995 – May 1998
-Sold insurance for Design Benefit Plans (Health and Life Insurance), various securities for Interstate Johnson Lane (a full service securities brokerage), and office copier and printing equipment for a Xerox Corp. licensed dealer
+Sold insurance for Design Benefit Plans (Health and Life Insurance), securities for Interstate Johnson Lane (a full service securities brokerage), and office copier and printing equipment for a Xerox Corp. licensed dealer, including two weeks of training at the once-famous Xerox University in Leesburg, VA.
 
 Additional Info: Please ask for any additional details desired.
 
