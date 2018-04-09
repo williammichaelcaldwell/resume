@@ -69,14 +69,14 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 ### Software Development Work History
 
-#### Principal Software Engineer, Senior Software Engineer
+#### Principal Software Engineer II, Principal Software Engineer, Senior Software Engineer
 #### Netsertive, Inc. 
 #### Morrisville, NC  
 #### April 2011 – present
 
 Developing new web applications, services, API platforms, libraries and backend automation apps, adding new features to existing apps and sites, creating new databases, automation, content generation systems, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.
 
-Providing technical leadership and mentoring to the entire software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia.  Involved in all aspects of sprint planning and delivery using Agile/Scrum.  Served as scrum master and/or team lead for several delivery teams.  Actively involved in the hiring process for engineering and product team members.  Taught non-Engineers how to program, through a months-long course, allowing them to add minor features and fix bugs in existing apps.  Currently actively involved in business and product development strategy.
+Providing technical leadership and mentoring to the entire software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia.  Involved in all aspects of sprint planning and delivery using Agile/Scrum.  Served as scrum master and/or team lead for several delivery teams.  Actively involved in the hiring process for engineering and product team members.  Has organized the Weekly Architecture Meeting for years, where any engineer can present a topic of interest.  Has himself presented many technical, design and other professional topics to the organization.  Once taught 10 non-Engineers how to program, through a several month long course meeting three times a week, allowing them to add minor features and fix bugs in existing apps.  Currently actively involved in business and product development strategy, and consulting with all company executives.
 
 Technologies used include Java, Spring/Boot Framework, PHP, Node, React/JSX, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, MySQL, MongoDB, MVC, REST, Linux/Mac OS X, Docker, Kubernetes, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit, Jira, Confluence, Bitbucket, Jenkins
 
@@ -122,7 +122,7 @@ Technologies used include ASP.NET 2.0, VB.NET, Visual Studio 2005, SQL Server 20
 
 Extraordinary success in designing, developing, and deploying a series of software systems that automated many previously manual business functions, dramatically improving employee productivity, replacing legacy applications, modernizing customer and partner communications, thus enabling my employer to grow rapidly and become one of the most outstanding companies in its industry.  Started work as a contractor (please see below).
 
-Technologies used include	VB.NET, SQL Server 2000, Active Reports, C#, ASP.NET, ADO.NET, Visual Studio 2003, Visual Source Safe, .NET Remoting
+Technologies used include VB.NET, SQL Server 2000, Active Reports, C#, ASP.NET, ADO.NET, Visual Studio 2003, Visual Source Safe, .NET Remoting
 
 ---
 
