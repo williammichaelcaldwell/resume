@@ -1,7 +1,6 @@
 # Resume
 
 ### William Michael Caldwell
-#### mcaldwell@netsertive.com
 #### michael@flourpowerstudios.com
 #### 3123 Canoe Brook Parkway, Raleigh, NC 27614
 #### (919) 889-5989
