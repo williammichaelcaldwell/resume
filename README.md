@@ -1,4 +1,3 @@
-# Resume
 
 ### William Michael Caldwell
 #### michael@flourpowerstudios.com
