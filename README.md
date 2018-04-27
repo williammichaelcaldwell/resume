@@ -76,7 +76,7 @@ Developed new web applications, services, API platforms, libraries and backend a
 
 Provided technical leadership and mentoring to the entire software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia.  Involved in all aspects of sprint planning and delivery using Agile/Scrum.  Served as scrum master and/or team lead for several delivery teams.  Actively involved in the hiring process for engineering and product team members.  Has organized the Weekly Architecture Meeting for years, where any engineer can present a topic of interest.  Has himself presented many technical, design and other professional topics to the organization.  Once taught 10 non-Engineers how to program, through a several month long course meeting three times a week, allowing them to add minor features and fix bugs in existing apps.  Currently actively involved in business and product development strategy, and consulting with all company executives.
 
-Technologies used include Java, Spring and Spring Boot Frameworks, PHP, JavaScript, React/JSX, Redux, HTML, CSS, Node.js, JQuery, jQueryUI, MySQL, MongoDB, MVC, REST, Docker, Kubernetes, Apache, Tomcat, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit, Jira, Confluence, Bitbucket, Jenkins
+Technologies used include Java, Spring and Spring Boot Frameworks, PHP, JavaScript, React, Redux, HTML, CSS, Node.js, JQuery, jQueryUI, MySQL, MongoDB, MVC, REST, Docker, Kubernetes, Apache, Tomcat, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit, Jira, Confluence, Bitbucket, Jenkins
 
 Three-time Company Annual Award Winner: Innovation Impact - 2016, Total Ownership - 2015, Excellence in Client Satisfaction - 2011
 
