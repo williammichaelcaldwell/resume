@@ -19,6 +19,8 @@ Michael excels at migrating and improving existing apps, databases and whole sys
 
 Michael is a skilled and experienced product developer and manager, able to seamlessly combine product requirements, analysis and design with the software development process. For Michael, software development *is* product development plus software engineering.  This approach arises from his years as a software development consultant as well as his years of experience as an entrepreneur in other industries.
 
+Michael has lead teams of 3 to 6 software professionals to repeatable success, and provided oversight, leadership, mentoring and training to entire software development organizations, comprised of both local and offshore talent. Michael's peers and subordinates can speak to his skill, experience and enthusiasm in this role.
+
 Michael’s formal education in the humanities and social sciences, and unusual prior experience in sales, marketing and business ownership, gives him insights, perspectives, wisdom and capabilities which he leverages to solve technical and business challenges within the field of software development and the profession of software engineering and architecture.
 
 Michael is a talented and experienced software engineer, architect, product developer and manager, as well as a counselor, coach and leader.
