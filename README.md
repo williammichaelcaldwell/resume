@@ -1,4 +1,3 @@
-
 ### William Michael Caldwell
 #### michael@flourpowerstudios.com
 #### 3123 Canoe Brook Parkway, Raleigh, NC 27614
@@ -73,11 +72,13 @@ Michael is a talented and experienced software engineer, architect, product deve
 #### Morrisville, NC  
 #### April 2011 – present
 
-Developing new web applications, services, API platforms, libraries and backend automation apps, adding new features to existing apps and sites, creating new databases, automation, content generation systems, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.
+Developed new web applications, services, API platforms, libraries and backend automation apps, adding new features to existing apps and sites, creating new databases, automation, content generation systems, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.
 
-Providing technical leadership and mentoring to the entire software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia.  Involved in all aspects of sprint planning and delivery using Agile/Scrum.  Served as scrum master and/or team lead for several delivery teams.  Actively involved in the hiring process for engineering and product team members.  Has organized the Weekly Architecture Meeting for years, where any engineer can present a topic of interest.  Has himself presented many technical, design and other professional topics to the organization.  Once taught 10 non-Engineers how to program, through a several month long course meeting three times a week, allowing them to add minor features and fix bugs in existing apps.  Currently actively involved in business and product development strategy, and consulting with all company executives.
+Provided technical leadership and mentoring to the entire software engineering team of approximately 40 professionals in RTP and St. Petersburg, Russia.  Involved in all aspects of sprint planning and delivery using Agile/Scrum.  Served as scrum master and/or team lead for several delivery teams.  Actively involved in the hiring process for engineering and product team members.  Has organized the Weekly Architecture Meeting for years, where any engineer can present a topic of interest.  Has himself presented many technical, design and other professional topics to the organization.  Once taught 10 non-Engineers how to program, through a several month long course meeting three times a week, allowing them to add minor features and fix bugs in existing apps.  Currently actively involved in business and product development strategy, and consulting with all company executives.
 
-Technologies used include Java, Spring/Boot Framework, PHP, Node, React/JSX, Redux, HTML, CSS, JavaScript, JQuery, jQueryUI, MySQL, MongoDB, MVC, REST, Linux/Mac OS X, Docker, Kubernetes, Apache, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit, Jira, Confluence, Bitbucket, Jenkins
+Technologies used include Java, Spring and Spring Boot Frameworks, PHP, JavaScript, React/JSX, Redux, HTML, CSS, Node.js, JQuery, jQueryUI, MySQL, MongoDB, MVC, REST, Docker, Kubernetes, Apache, Tomcat, Eclipse, IntelliJ, JSON, JSON-P, Bash, PHPUnit, JUnit, Jira, Confluence, Bitbucket, Jenkins
+
+Three-time Company Annual Award Winner: Innovation Impact - 2016, Total Ownership - 2015, Excellence in Client Satisfaction - 2011
 
 ---
 
