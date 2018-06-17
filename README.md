@@ -9,13 +9,13 @@ A uniquely experienced and successful software development leader who has design
 
 Michael has designed, developed and maintained a wide variety of applications and systems in different industries, including digital marketing, healthcare, insurance, finance, telecommunications and logistics.
 
-Michael has 19 years of experience creating and evolving all types of software, including web sites, apps, and services, daemons, agents, desktop UIs, libraries, microservices and web platforms, REST APIs, OLAP and OLTP schemas and databases, and ETL pipelines.
+Michael has 19 years of experience creating and evolving all types of software, including web sites, apps, services, daemons, agents, desktop UIs, libraries, microservices and web platforms, REST and SOAP services, distributed systems, schemas and databases, and ETL pipelines.
 
-Michael has worked in many different technologies and languages, including Java, Spring, PHP, MySQL, Javascript, Node, React, jQuery, jQueryUI, HTML5, CSS3, SQL Server, C#, VB.NET, ASP.NET, JSON and REST.  
+Michael has worked in many different technologies and languages, including Java, Spring, Scala, PHP, Python, MySQL, Javascript, NodeJs, React, Angular, jQuery, jQueryUI, HTML5, CSS3, SQL Server, Postgres, C#, VB.NET, ASP.NET, JSON, REST and SOAP.  
 
 Michael is an expert and leader in writing "clean code" and building highly maintainable and testable software by leveraging enterprise patterns and frameworks, best practices and principles, and modern tooling and processes, which lead to repeatable and predictable project success.
 
-Michael excels at migrating and improving existing apps, databases and whole systems, thereby evolving them into maintainable and modern software systems which follow best practices and patterns and leverage appropriate technology. Cloud-native, platform-independent, '12-factor' apps don't have to be built that way from scratch: You can start with whatever you've got, and "get there", without breaking any customer experience along the way.  Michael can show you how.
+Michael excels at migrating and improving existing apps, databases and whole systems, evolving them into maintainable and modern software systems which follow best practices and patterns and leverage appropriate technology. Cloud-native, platform-independent, '12-factor' apps don't have to be built that way from scratch: You can start with whatever you've got, and "get there", without breaking any customer experience along the way.  Michael can show you how.
 
 Michael is a skilled and experienced product developer and manager, able to seamlessly combine product requirements, analysis and design with the software development process. For Michael, software development *is* product development plus software engineering.  This approach arises from his years as a software development consultant as well as his years of experience as an entrepreneur in other industries.
 
@@ -41,7 +41,7 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 •	Content management and generation systems
 
-•	Messaging engines and gateways
+•	Messaging apps, engines and gateways
 
 •	Reporting and document delivery systems
 
@@ -69,10 +69,23 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 ### Software Development Work History
 
+#### Software Architect
+#### Mapp Digital US, LLC 
+#### Raleigh, NC  
+#### May 2018 – present
+
+Maintaining complex campaign and content management applications
+
+Providing technical leadership to my software engineering team
+
+Technologies used include Java, Spring Boot, Scala, NodeJs, Angular, MySQL, Postgres, Scylla, AWS, Docker, Apache, Tomcat, IntelliJ, JSON, XML, REST, Swagger, Bash, Jira, Confluence, Gitlab, Jenkins
+
+---
+
 #### Principal Software Engineer II, Principal Software Engineer, Senior Software Engineer
 #### Netsertive, Inc. 
 #### Morrisville, NC  
-#### April 2011 – present
+#### April 2011 – April 2018
 
 Developed new web applications, services, API platforms, libraries and backend automation apps, adding new features to existing apps and sites, creating new databases, automation, content generation systems, and reporting systems for various digital ad technology needs, such as account and campaign management, client reporting and self-service portals, notifications and alerts, and digital advertising platform/network API access.
 
