@@ -69,16 +69,16 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 ### Software Development Work History
 
-#### Software Architect
+#### Software Architect and Team Lead
 #### Mapp Digital US, LLC 
 #### Raleigh, NC  
 #### May 2018 – present
 
-Maintaining complex campaign and content management applications
+Maintaining complex campaign and content management applications. Building new cross-channel reporting solutions.
 
-Providing technical leadership to my software engineering team
+Developing Machine Learning pipelines and applications for predictive analytics.  Leading the Intelligence and Insights Team
 
-Technologies used include Java, Spring Boot, Scala, NodeJs, Angular, MySQL, Postgres, Scylla, AWS, Docker, Apache, Tomcat, IntelliJ, JSON, XML, REST, Swagger, Bash, Jira, Confluence, Gitlab, Jenkins
+Technologies used include Java, Spring Boot, Node, Express, Javascript, Angular, MySQL, Postgres, Spark, Kafka, Cassandra, HDFS/Hadoop, Docker, IntelliJ, JSON, XML, REST, GraphQL, Bash, Jira, Confluence, Gitlab, and many well-known AWS infrastructure services
 
 ---
 
