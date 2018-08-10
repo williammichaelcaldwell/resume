@@ -11,7 +11,7 @@ Michael has designed, developed and maintained a wide variety of applications an
 
 Michael has 19 years of experience creating and evolving all types of software, including web sites, apps, services, daemons, agents, desktop UIs, libraries, microservices and web platforms, REST and SOAP services, distributed systems, schemas and databases, and ETL pipelines.
 
-Michael has worked in many different technologies and languages, including Java, Spring, Scala, PHP, Python, MySQL, Javascript, NodeJs, React, Angular, jQuery, jQueryUI, HTML5, CSS3, SQL Server, Postgres, C#, VB.NET, ASP.NET, JSON, REST and SOAP.  
+Michael has worked in many different technologies and languages, including Java, Spring, PHP, Python, MySQL, Javascript, Node, Scala, React, Angular, Express, jQuery, jQueryUI, HTML5, CSS3, SQL Server, Postgres, Cassandra, HDFS, C#, VB.NET, ASP.NET, JSP, JSON, REST and SOAP.
 
 Michael is an expert and leader in writing "clean code" and building highly maintainable and testable software by leveraging enterprise patterns and frameworks, best practices and principles, and modern tooling and processes, which lead to repeatable and predictable project success.
 
