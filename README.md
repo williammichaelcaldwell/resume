@@ -9,7 +9,7 @@ A uniquely experienced and successful software development leader who has design
 
 Michael has designed, developed and maintained a wide variety of applications and systems in different industries, including digital marketing, healthcare, insurance, finance, telecommunications and logistics.
 
-Michael has 19 years of experience creating and evolving all types of software, including web sites, apps, services, daemons, agents, desktop UIs, libraries, microservices and web platforms, REST and SOAP services, distributed systems, schemas and databases, and ETL pipelines.
+Michael has 20 years of experience creating and evolving all types of software, including web sites, apps, services, daemons, agents, desktop UIs, libraries, microservices and web platforms, REST and SOAP services, distributed systems, schemas and databases, and ETL pipelines.
 
 Michael has worked in many different technologies and languages, including Java, Spring, PHP, Python, MySQL, Javascript, Node, Scala, React, Angular, Express, jQuery, jQueryUI, HTML5, CSS3, SQL Server, Postgres, Cassandra, HDFS, C#, VB.NET, ASP.NET, JSP, JSON, REST and SOAP.
 
