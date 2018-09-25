@@ -11,7 +11,7 @@ Michael has designed, developed and maintained a wide variety of applications an
 
 Michael has 20 years of experience creating and evolving all types of software, including web sites, apps, services, daemons, agents, desktop UIs, libraries, microservices and web platforms, REST and SOAP services, distributed systems, schemas and databases, and ETL pipelines.
 
-Michael has worked in many different technologies and languages, including Java, Spring, PHP, Python, MySQL, Javascript, Node, Scala, React, Angular, Express, jQuery, jQueryUI, HTML5, CSS3, SQL Server, Postgres, Cassandra, HDFS, C#, VB.NET, ASP.NET, JSP, JSON, REST and SOAP.
+Michael has worked in many different technologies and languages, including Java, Spring, PHP, Python, Javascript, Node, Scala, React, Angular, Express, jQuery, jQueryUI, HTML, CSS, MySQL, SQL Server, Postgres, Cassandra, HDFS, C#, VB.NET, ASP.NET, JSP, JSON, REST and more.
 
 Michael is an expert and leader in writing "clean code" and building highly maintainable and testable software by leveraging enterprise patterns and frameworks, best practices and principles, and modern tooling and processes, which lead to repeatable and predictable project success.
 
@@ -37,7 +37,7 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 ### Software Development Experience Summary
 
-•	Customer portals, dashboards and API platforms
+•	Customer-facing dashboards, application suites and API platforms
 
 •	Content management and generation systems
 
@@ -276,13 +276,10 @@ Technologies used include Windows 95/98/NT, DOS/Basic, Visual Basic 5.0, Microso
 #### Co-Owner, Sugar Plum Kids
 #### 2009 – present
 
-Co-owner of a unique retail services and educational/entertainment franchise company with seven locations and major growth potential. Four studios were built from the "ground up" by us and then sold/converted to franchise locations.  Three locations thus far have been sold as new franchisee territories.
+Co-owner of a unique retail services and educational/entertainment franchise company with 10 locations and major ongoing growth potential. Four studios were built from the "ground up" by us and then sold/converted to franchise locations.  Six locations thus far have been sold as new franchisee territories.
 Additional Info: http://www.flourpowerstudios.com
 
-Last year we launched a related e-Commerce culinary activity subscription box for children
-Additional Info: http://www.sugarplumkids.com
-
-*I am not actively involved in day-to-day operations of either company.*
+*I am not actively involved in day-to-day operations of this company.*
 
 ---
 
