@@ -5,7 +5,7 @@
 
 ## Summary:
 
-A uniquely experienced and successful software development leader who has designed and developed many different types of business software applications, websites and systems over the past 19 years, and who has lead teams and organizations to consistent and predictable high performance, seeks a leadership position in creating high-value enterprise software systems and technology platforms for a dynamic and growing business.  
+A uniquely experienced and successful software development leader who has designed and developed many different types of business software applications, websites and systems over the past 20 years, and who has lead teams and organizations to consistent and predictable high performance, seeks a leadership position in creating high-value enterprise software systems and technology platforms for a dynamic and growing business.  
 
 Michael has designed, developed and maintained a wide variety of applications and systems in different industries, including digital marketing, healthcare, insurance, finance, telecommunications and logistics.
 
