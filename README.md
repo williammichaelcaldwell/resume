@@ -273,7 +273,6 @@ Technologies used include Windows 95/98/NT, DOS/Basic, Visual Basic 5.0, Microso
 #### Other Experience
 
 #### Co-Owner, Flour Power Kids Cooking Studios
-#### Co-Owner, Sugar Plum Kids
 #### 2009 – present
 
 Co-owner of a unique retail services and educational/entertainment franchise company with 10 locations and major ongoing growth potential. Four studios were built from the "ground up" by us and then sold/converted to franchise locations.  Six locations thus far have been sold as new franchisee territories.
