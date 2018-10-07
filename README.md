@@ -7,11 +7,11 @@
 
 A uniquely experienced and successful software development leader who has designed and developed many different types of business software applications, websites and systems over the past 20 years, and who has lead teams and organizations to consistent and predictable high performance, seeks a leadership position in creating high-value enterprise software systems and technology platforms for a dynamic and growing business.  
 
-Michael has designed, developed and maintained a wide variety of applications and systems in different industries, including digital marketing, healthcare, insurance, finance, telecommunications and logistics.
+Michael has designed, developed and maintained a wide variety of applications and systems in different industries, including digital marketing, healthcare, insurance, finance, telecommunications and technology.
 
 Michael has 20 years of experience creating and evolving all types of software, including web sites, apps, services, daemons, agents, desktop UIs, libraries, microservices and web platforms, REST and SOAP services, distributed systems, schemas and databases, and ETL pipelines.
 
-Michael has worked in many different technologies and languages, including Java, Spring, PHP, Python, Javascript, Node, Scala, React, Angular, Express, jQuery, jQueryUI, HTML, CSS, MySQL, SQL Server, Postgres, Cassandra, HDFS, C#, VB.NET, ASP.NET, JSP, JSON, REST and more.
+Michael has worked in many different technologies and languages, including Java, PHP, Python, Javascript, NodeJs, React, Express, Angular, jQuery, jQueryUI, HTML, CSS, MySQL, SQL Server, Postgres, C#, VB.NET, ASP.NET, JSP, JSON, REST and more.
 
 Michael is an expert and leader in writing "clean code" and building highly maintainable and testable software by leveraging enterprise patterns and frameworks, best practices and principles, and modern tooling and processes, which lead to repeatable and predictable project success.
 
@@ -275,7 +275,7 @@ Technologies used include Windows 95/98/NT, DOS/Basic, Visual Basic 5.0, Microso
 #### Co-Owner, Flour Power Kids Cooking Studios
 #### 2009 – present
 
-Co-owner of a unique retail services and educational/entertainment franchise company with 10 locations and major ongoing growth potential. Four studios were built from the "ground up" by us and then sold/converted to franchise locations.  Six locations thus far have been sold as new franchisee territories.
+Co-owner of a unique retail services and educational/entertainment franchise company with 10 locations and significant ongoing growth. Four studios were built from the "ground up" by us and then sold/converted to franchise locations.  Six locations thus far have been sold as new franchisee territories.
 Additional Info: http://www.flourpowerstudios.com
 
 *I am not actively involved in day-to-day operations of this company.*
