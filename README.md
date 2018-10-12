@@ -76,9 +76,9 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 Maintaining complex campaign and content management applications. Building new cross-channel reporting solutions.
 
-Developing Machine Learning pipelines and applications for predictive analytics.  Leading the Intelligence and Insights Team
+Developing Machine Learning pipelines and applications for predictive analytics for marketing content and audiences.  Leading the Intelligence & Insights Team.
 
-Technologies used include Java, Spring Boot, Node.js, Express, Javascript, Python, Flask, Angular, MySQL, Postgres, Kafka, Cassandra, HDFS/Hadoop, Docker, IntelliJ, JSON, XML, REST, GraphQL, Bash, Jira, Confluence, Gitlab, and many well-known AWS infrastructure services
+Technologies used include Java, Spring, Node.js, Express, Javascript, Python, Flask, Angular, MySQL, Postgres, Kafka/Kinesis, Cassandra, HDFS/Hadoop, Docker, IntelliJ, JSON, REST, GraphQL, Bash, Jira, Confluence, Gitlab, and many well-known AWS infrastructure services
 
 ---
 
