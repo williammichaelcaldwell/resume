@@ -296,7 +296,7 @@ Advanced from an entry-level field sales position to a regional owner responsibl
 
 Additional Info: http://vectormarketing.com
 
-*Vector/Cutco does not work out for 80-90% of those who start. It worked out extremely well for me.*
+*Vector/Cutco does not work out for the vast majority of those who try it. It was an extremely positive, enduring and enriching experience for me.*
 
 ---
 
