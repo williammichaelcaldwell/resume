@@ -5,25 +5,19 @@
 
 ## Summary:
 
-A highly successful and experienced software development leader who has designed and developed many different types of business software applications, websites and systems over the past 20 years, and who has lead teams and organizations to consistent and predictable high performance, seeks a leadership position in creating high-value enterprise software systems and technology platforms for a dynamic and growing business.  
+A highly skilled and experienced software development leader who has architected, developed and maintained a wide array of software systems over the past 20 years, and who has built and led teams and organizations to consistent high performance, seeks an engineering leadership position in a dynamic organization to create high-value, business-impacting software systems.
 
-Michael has designed, developed and maintained a wide variety of applications and systems in different industries, including digital marketing, healthcare, insurance, finance, telecommunications and technology.
+Michael has architected, developed and maintained a wide variety of applications and systems in many industries, including product development tooling, digital marketing, healthcare, insurance, finance and telecommunications.
 
-Michael has 20 years of experience creating and evolving all types of software, including web sites, apps, services, daemons, agents, desktop UIs, libraries, microservices and web platforms, REST and SOAP services, distributed systems, schemas and databases, and ETL pipelines.
-
-Michael has worked in many different technologies and languages, including Java, PHP, Python, Javascript, NodeJs, React, Express, Angular, jQuery, jQueryUI, HTML, CSS, MySQL, SQL Server, Postgres, C#, VB.NET, ASP.NET, JSP, JSON, REST and more.
+Michael has 20 years of experience creating and refactoring many types and tiers of software systems, including end-to-end platforms, web apps and service layers, backend agents and data pipelines, business workflow engines, databases and warehouses, libraries and custom frameworks.
 
 Michael is an expert and leader in writing "clean code" and building highly maintainable and testable software by leveraging enterprise patterns and frameworks, best practices and principles, and modern tooling and processes, which lead to repeatable and predictable project success.
 
-Michael excels at migrating and improving existing apps, databases and whole systems, evolving them into maintainable and modern software systems which follow best practices and patterns and leverage appropriate technology. Cloud-native, platform-independent, '12-factor' apps don't have to be built that way from scratch: You can start with whatever you've got, and "get there", without breaking any customer experience along the way.  Michael can show you how.
+Michael excels at migrating and improving existing apps, databases and entire platforms, thereby evolving them into maintainable and modern software systems which follow best practices and patterns and leverage appropriate technology.
 
-Michael is a skilled and experienced product developer and manager, able to seamlessly combine product requirements, analysis and design with the software development process. For Michael, software development *is* product development plus software engineering.  This approach arises from his years as a software development consultant as well as his years of experience as an entrepreneur in other industries.
+Michael is a skilled product manager, able to seamlessly combine product requirements, analysis and design with the software development process. This approach arises from his years as a software development consultant, architect, engineering leader, as well as his years of experience as an entrepreneur, business owner and sales professional.
 
-Michael has lead teams of software professionals to repeatable success, and provided oversight, leadership, mentoring and training to entire software development organizations, comprised of many teams containing both local and offshore talent. Michael's peers and subordinates can speak to his skill, experience and enthusiasm in this role.
-
-Michael’s formal education in the humanities and social sciences, and unusual prior experience in sales, marketing and business ownership, gives him insights, perspectives, wisdom and capabilities which he leverages to solve technical and business challenges within the field of software development and the profession of software engineering and architecture.
-
-Michael is a talented and experienced software engineer, architect, product developer and manager, as well as a counselor, coach and leader.
+Michael is a talented and experienced software engineer, architect, product developer, coach, advisor and leader.
 
 ## Education
 ### B.A. with Distinction – The University of North Carolina at Chapel Hill, 1993.  
@@ -37,15 +31,19 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 ### Software Development Experience Summary
 
-•	Customer-facing dashboards, application suites and API platforms
+•	SaaS Platforms
+
+•	Data and Machine Learning Pipelines
 
 •	Content management and generation systems
 
-•	Messaging apps, engines and gateways
+•	Messaging apps and engines
 
 •	Reporting and document delivery systems
 
-•	RESTful web service development and Microservices architecture 
+•	Business process automation
+
+•	Web service layers, gateways and microservice architectures 
 
 •	Database schema development, redesigns and migrations
 
@@ -55,30 +53,37 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 •	Line-of-business operations and management systems
 
-•	Application reform and refactoring
+•	Application and whole system refactoring
 
-•	Legacy systems integration and replacement
-
-•	Insurance, legal and accounting applications
-
-•	Clinical and Medical (EHR) systems
-
-•	Digital Advertising and Campaign Management
+•	Legacy system integrations and replacement
 
 ---
 
 ### Software Development Work History
 
+#### Senior Software Engineer
+#### Allstacks, Inc.
+#### Raleigh, NC  
+#### November 2018 – present
+
+Building and maintaining a SaaS platform for software engineering performance management, risk mitigation and delivery forecasting.
+
+I am the first full-time engineering hire for this early-stage B2B SaaS software startup.
+
+Technologies include Python, Django, Postgres, REST, Docker, AWS and all common source control and issue tracking tools and platforms.
+
+---
+
 #### Software Architect and Technical Lead
 #### Mapp Digital US, LLC 
 #### Raleigh, NC  
-#### May 2018 – present
+#### May 2018 – November 2018
 
-Maintaining complex campaign and content management applications. Building new cross-channel reporting solutions.
+Maintained complex campaign and content management applications. Building new cross-channel reporting solutions.
 
-Developing Machine Learning pipelines and applications for predictive analytics for marketing content and audiences.  Leading the Intelligence & Insights Team.
+Developed Machine Learning pipelines and applications for predictive analytics for marketing content and audiences.  Joined and then led the Insights/Intelligence team.
 
-Technologies used include Java, Spring, Node.js, Express, Javascript, Python, Flask, Angular, MySQL, Postgres, Kafka/Kinesis, Cassandra, HDFS/Hadoop, Docker, IntelliJ, JSON, REST, GraphQL, Bash, Jira, Confluence, Gitlab, and many well-known AWS infrastructure services
+Technologies used include Java, Spring, Node.js, Express, Javascript, Python, Flask, Angular, MySQL, Postgres, Kafka/Kinesis, Cassandra, HDFS/Hadoop, Docker, REST, GraphQL, Bash, Jira, Gitlab, and many well-known AWS infrastructure services
 
 ---
 
@@ -299,7 +304,7 @@ Additional Info: http://vectormarketing.com
 #### Sept 1995 – May 1998
 Sold insurance for Design Benefit Plans (Health and Life Insurance), securities for Interstate Johnson Lane (a full service securities brokerage), and office copier and printing equipment for a Xerox Corp. licensed dealer, including two weeks of training at the once-famous Xerox University in Leesburg, VA.
 
-Additional Info: Please ask for any additional details desired.
+Additional Info: Please ask for any additional details.
 
 
 
