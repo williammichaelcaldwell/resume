@@ -23,9 +23,9 @@ Michael is a talented and experienced software engineer, architect, product deve
 ### B.A. with Distinction – The University of North Carolina at Chapel Hill, 1993.  
 •	Member, Phi Beta Kappa
 
-•	University Honors Program, taking 15 or more Honors courses
+•	University Honors Program, completing 15 or more Honors courses
 
-•	Fellow of the College of Arts and Sciences.
+•	Fellow of the College of Arts and Sciences
 
 ## Experience
 
@@ -83,7 +83,7 @@ Maintained complex campaign and content management applications. Building new cr
 
 Developed Machine Learning pipelines and applications for predictive analytics for marketing content and audiences.  Joined and then led the Insights/Intelligence team.
 
-Technologies used include Java, Spring, Node.js, Express, Javascript, Python, Flask, Angular, MySQL, Postgres, Kafka/Kinesis, Cassandra, HDFS/Hadoop, Docker, REST, GraphQL, Bash, Jira, Gitlab, and many well-known AWS infrastructure services
+Technologies used include Java, Spring, Node.js, Express, Javascript, Python, Flask, Angular, MySQL, Postgres, Kafka/Kinesis, Cassandra, HDFS/Hadoop, Docker, REST, GraphQL, Jira, Gitlab, and many well-known AWS infrastructure services
 
 ---
 
