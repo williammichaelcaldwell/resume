@@ -29,11 +29,17 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 ## Experience
 
+---
 ### Software Development Experience Summary
+---
 
-•	SaaS Platforms
+•	WebRTC systems
 
-•	Data and Machine Learning Pipelines
+•	User-friendly APIs and SDKs
+
+•	SaaS applications
+
+•	Data and Machine Learning pipelines
 
 •	Content management and generation systems
 
@@ -43,7 +49,9 @@ Michael is a talented and experienced software engineer, architect, product deve
 
 •	Business process automation
 
-•	Web service layers, gateways and microservice architectures 
+•	Web services and microservice architectures
+
+•	OO and Functional programming paradigms and patterns
 
 •	Database schema development, redesigns and migrations
 
@@ -58,13 +66,26 @@ Michael is a talented and experienced software engineer, architect, product deve
 •	Legacy system integrations and replacement
 
 ---
-
 ### Software Development Work History
+---
+
+#### Senior Software Engineer
+#### Bandwidth, Inc.
+#### Raleigh, NC  
+#### Septermber 2019 – present
+
+Helping to design, build and maintain a WebRTC communications system with SIP voice integration. Also building and maintaining SDKs and sample apps for customers.
+
+Separately, maintaining and operating a proprietary rapid application development platform.
+
+Technologies used: AWS Lambda, API Gateway, EC2, ECS, DynamoDb, CloudFormation, CloudWatch, DataDog, Python, NodeJs, Typescript, Java, Github, Jira
+
+---
 
 #### Senior Software Engineer
 #### Allstacks, Inc.
 #### Raleigh, NC  
-#### November 2018 – present
+#### November 2018 – September 2019
 
 Building and maintaining a SaaS platform for software engineering performance management, risk mitigation and delivery forecasting.
 
