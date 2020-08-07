@@ -30,7 +30,9 @@ Michael is a talented and experienced software engineer, architect, product deve
 ## Experience
 
 ---
+
 ### Software Development Experience Summary
+
 ---
 
 •	WebRTC systems
@@ -66,7 +68,9 @@ Michael is a talented and experienced software engineer, architect, product deve
 •	Legacy system integrations and replacement
 
 ---
+
 ### Software Development Work History
+
 ---
 
 #### Senior Software Engineer
