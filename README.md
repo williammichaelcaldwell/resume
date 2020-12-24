@@ -3,12 +3,12 @@
 michael@flourpowerstudios.com  
 3123 Canoe Brook Parkway  
 Raleigh, NC 27614  
-(919) 889-5989
+(919) 889-5989 
 https://www.linkedin.com/in/williammichaelcaldwell/
 
 &nbsp;
 
-## Professional Summary:
+## Professional Summary
 
 &nbsp;  
 Michael Caldwell is a software technologist and entrepreneur with over 20 years of software development, software architecture, consulting, product management, startup, and team leadership experience, and deep expertise in software product development and delivery. He seeks a leadership position with a cloud platform/technology company, where he will design and implement strategic and highly-valued software products.
